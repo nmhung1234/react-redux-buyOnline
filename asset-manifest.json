@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-redux-buyOnline/static/js/main.effb3dd8.chunk.js",
+    "main.js.map": "/react-redux-buyOnline/static/js/main.effb3dd8.chunk.js.map",
+    "runtime-main.js": "/react-redux-buyOnline/static/js/runtime-main.34635ddd.js",
+    "runtime-main.js.map": "/react-redux-buyOnline/static/js/runtime-main.34635ddd.js.map",
+    "static/js/2.19f6ada1.chunk.js": "/react-redux-buyOnline/static/js/2.19f6ada1.chunk.js",
+    "static/js/2.19f6ada1.chunk.js.map": "/react-redux-buyOnline/static/js/2.19f6ada1.chunk.js.map",
+    "static/js/3.ba57f075.chunk.js": "/react-redux-buyOnline/static/js/3.ba57f075.chunk.js",
+    "static/js/3.ba57f075.chunk.js.map": "/react-redux-buyOnline/static/js/3.ba57f075.chunk.js.map",
+    "index.html": "/react-redux-buyOnline/index.html",
+    "static/js/2.19f6ada1.chunk.js.LICENSE.txt": "/react-redux-buyOnline/static/js/2.19f6ada1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34635ddd.js",
+    "static/js/2.19f6ada1.chunk.js",
+    "static/js/main.effb3dd8.chunk.js"
+  ]
+}
